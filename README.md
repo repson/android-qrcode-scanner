@@ -1,2 +1,2 @@
-android-example-qr-code-scanner
+android-qr-code-scanner
 ===============================
